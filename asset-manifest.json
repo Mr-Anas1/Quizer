@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Quizer/static/css/main.d73f54af.css",
+    "main.js": "/Quizer/static/js/main.2f988bf2.js",
+    "static/media/Image 7.png": "/Quizer/static/media/Image 7.c5e28249a0c5024030bf.png",
+    "index.html": "/Quizer/index.html",
+    "main.d73f54af.css.map": "/Quizer/static/css/main.d73f54af.css.map",
+    "main.2f988bf2.js.map": "/Quizer/static/js/main.2f988bf2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d73f54af.css",
+    "static/js/main.2f988bf2.js"
+  ]
+}
